@@ -1,4 +1,4 @@
-# itssouray.github.io-repo4
+# itsvaibhav.github.io-repo4
 
 #About the project:-
 --------------------
@@ -19,4 +19,4 @@ The api used in this project is shrtcode api (https://shrtco.de/docs/).
 -----------
 visite below link ...
 
-https://itssouray.github.io/itssouray.github.io-repo4/
+https://itsvaibhav.github.io/itsvaibhav.github.io-repo4/
